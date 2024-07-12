@@ -53,6 +53,7 @@ table {
 
 body {
 	-webkit-text-size-adjust: none;
+	background-color:#358546;
 }
 
 mark {
@@ -83,7 +84,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #358546;
+		background-color: #358546;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
